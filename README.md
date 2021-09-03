@@ -7,3 +7,6 @@ To use simply copy into your ESO add-on directory to the "uespPatreonSaveChar" d
 
 There are no settings or parameters to tweak. Once installed it will simply save character information to your
 "SavedVariables/uespPatreonSaveChar.lua" fil whenever you logout of the game.
+
+For more details on how to save and send ESO character data to the UESP for the 2021 figurines see the UESP
+Patreon campaign for more information (https://patreon.com/uesp/).
